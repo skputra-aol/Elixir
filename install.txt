@@ -3,7 +3,9 @@ https://elixir-lang.org/install.html
 //* INSTALL ELIXIR *\\
 
 // ubuntu
-sudo apt install elixir
+$ sudo add-apt-repository ppa:rabbitmq/rabbitmq-erlang
+$ sudo apt update
+$ sudo apt install elixir erlang-dev erlang-xmerl
 
 // docker
 docker run -it --rm elixir
