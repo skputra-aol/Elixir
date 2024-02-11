@@ -9,6 +9,7 @@ true       # boolean
 "elixir"   # string
 [1, 2, 3]  # list
 {1, 2, 3}  # tuple
+~D[2017-03-31]  # Date
 
 
 
@@ -24,3 +25,7 @@ s3=s1<>"-"<>s2
 list1 = [3.14, :pie, "Apple"]
 list2= ["dataAwal" | list1]     ##Result : ["dataAwal", 3.14, :pie, "Apple"]
 list3= list ++ ["dataAkhir"]    ##Result : [3.14, :pie, "Apple", "dataAkhir"]
+
+
+// compare date
+~D[2017-03-31] > ~D[2017-04-01]
