@@ -5,12 +5,7 @@ s3=s1<>"-"<>s2
 ## result : "Here-I am"
 
 
-// add data in first of Lisr
-list = [3.14, :pie, "Apple"]
-[3.14, :pie, "Apple"]
-# Penambahan di awal (cepat)
-["π" | list]
-["π", 3.14, :pie, "Apple"]
-# Penambahan di akhir (lambat)
-list ++ ["Cherry"]
-[3.14, :pie, "Apple", "Cherry"]
+// add data in first of List
+list1 = [3.14, :pie, "Apple"]
+list2= ["dataAwal" | list1]     ##Result : ["dataAwal", 3.14, :pie, "Apple"]
+list3= list ++ ["dataAkhir"]    ##Result : [3.14, :pie, "Apple", "dataAkhir"]
