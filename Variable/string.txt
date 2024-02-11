@@ -1,0 +1,13 @@
+// get length
+String.length("hello")
+##Result: 5
+
+// uppercase
+String.upcase("hellO")
+##Result: "HELLÖ"
+
+// multi row string
+stringku= """
+I will
+be there
+"""

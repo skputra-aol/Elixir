@@ -1,0 +1,5 @@
+// h: search all contents 0f method by name ,and count(ex: 1, 2,..,18)
+h methodku/7
+## Result:  def methodku() Returns "oke"
+or
+h class1.methodmu/1
