@@ -2,7 +2,7 @@
 s1="Here"
 s2="I am"
 s3=s1<>"-"<>s2
-## result : "Here-I am"
+##Result : "Here-I am"
 
 
 // add data in first of List

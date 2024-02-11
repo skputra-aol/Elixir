@@ -1,4 +1,8 @@
 https://medium.com/spreedly-engineering/youre-smart-enough-for-elixir-e33257a7f062
 
+
+// Tutorial
+https://elixir-lang.org/docs.html
+
 // Version manager
 https://github.com/taylor/kiex
