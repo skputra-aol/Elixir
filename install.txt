@@ -22,5 +22,8 @@ kiex install 0.12.5
 kiex use 0.12.5
 
 
+//* INSTALL VSCODE EXTENSION *\\
+Postman.postman-for-vscode
+
 
 
