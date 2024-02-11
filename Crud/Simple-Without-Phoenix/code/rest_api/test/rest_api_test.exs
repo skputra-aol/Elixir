@@ -22,11 +22,11 @@ defmodule RestApiTest.Router do
   test "return ok" do
   	# Build a connection which is GET request on / url
     conn = conn(:get, "/")
-​
+    
     # Then call Plug.call/2 with the connection and options
     # https://hexdocs.pm/plug/Plug.html#c:call/2
     conn = RestApi.Router.call(conn, @opts)
-​
+    
     # Finally we are using the assert/2 function to check for the
     # correctness of the response
     # https://hexdocs.pm/ex_unit/ExUnit.Assertions.html#assert/2

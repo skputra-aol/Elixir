@@ -4,6 +4,8 @@ https://medium.com/spreedly-engineering/youre-smart-enough-for-elixir-e33257a7f0
 // Tutorial
 https://elixir-lang.org/docs.html
 https://saswat.dev/build-a-simple-rest-api-with-elixir-part-1/
+https://dev.to/burhanahmeed/personal-note-build-elixir-crud-without-phoenix-using-mysql-and-mongodb-4o0b
+
 
 // Version manager
 https://github.com/taylor/kiex
