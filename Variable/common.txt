@@ -1,0 +1,10 @@
+
+// add data in first of Lisr
+list = [3.14, :pie, "Apple"]
+[3.14, :pie, "Apple"]
+# Penambahan di awal (cepat)
+["π" | list]
+["π", 3.14, :pie, "Apple"]
+# Penambahan di akhir (lambat)
+list ++ ["Cherry"]
+[3.14, :pie, "Apple", "Cherry"]

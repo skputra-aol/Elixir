@@ -1,0 +1,22 @@
+https://elixir-lang.org/install.html
+
+//* INSTALL ELIXIR *\\
+
+// ubuntu
+sudo apt install elixir
+
+// docker
+docker run -it --rm elixir
+open cmd bash: docker run -it --rm elixir bash
+
+
+//* INSTALL versionmanager like NVM *\\
+\curl -sSL https://raw.githubusercontent.com/taylor/kiex/master/install | bash -s
+
+kiex list
+kiex install 0.12.5
+kiex use 0.12.5
+
+
+
+
