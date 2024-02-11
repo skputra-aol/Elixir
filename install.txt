@@ -6,6 +6,8 @@ https://elixir-lang.org/install.html
 $ sudo add-apt-repository ppa:rabbitmq/rabbitmq-erlang
 $ sudo apt update
 $ sudo apt install elixir erlang-dev erlang-xmerl
+$ elixir --version  ////untuk cek versi elixir
+$ iex  ////untuk buka cmd bash elixir
 
 // docker
 docker run -it --rm elixir
