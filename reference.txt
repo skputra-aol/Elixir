@@ -5,6 +5,9 @@ https://medium.com/spreedly-engineering/youre-smart-enough-for-elixir-e33257a7f0
 https://elixir-lang.org/docs.html
 https://saswat.dev/build-a-simple-rest-api-with-elixir-part-1/
 https://dev.to/burhanahmeed/personal-note-build-elixir-crud-without-phoenix-using-mysql-and-mongodb-4o0b
+https://elixir-examples.github.io/
+https://medium.com/spreedly-engineering/youre-smart-enough-for-elixir-e33257a7f062
+https://hexdocs.pm/elixir/alias-require-and-import.html
 
 
 // Version manager
