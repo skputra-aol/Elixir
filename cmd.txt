@@ -1,0 +1,15 @@
+// get dependendies / like npm install
+$ mix deps.get
+
+// run all test
+$  mix test
+
+
+// open bash Elixir
+$ iex
+
+// run server elixir
+$ iex -S mix run
+
+// get version of Elixir
+$ elixir --version
