@@ -1,7 +1,7 @@
 // ref : https://saswat.dev/build-a-simple-rest-api-with-elixir-part-1/
 
 $ mix new rest_api --sup
-## Note :
+## Note ::
 <<
 mix : is the built-in build tool that comes packaged with Elixir, which can be used to create, compile, test and manage dependencies for elixir projects. mix it is similar to  npm in Node.js universe but much more powerful.
 
