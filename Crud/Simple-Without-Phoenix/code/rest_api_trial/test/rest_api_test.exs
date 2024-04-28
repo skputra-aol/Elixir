@@ -6,7 +6,7 @@ defmodule RestApiTest.Router do
   use ExUnit.Case, async: true
   
   # This makes the conn object avaiable in the scope of the tests,
-  # which can be used to make the HTTP request
+  # which can be used to make the HTTP requests
   # https://hexdocs.pm/plug/Plug.Test.html
   use Plug.Test
   
